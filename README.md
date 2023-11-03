@@ -34,7 +34,7 @@ git clone https://github.com/st-Ir/photos
 * [`AREA44/astro-multivers`](https://github.com/AREA44/astro-multiverse)
 
 ### Donate
-<p>
-<img href="https://trakteer.id/byfe.Ir/tip?open=true" src=https://img.shields.io/badge/Traktir-E35F26?Color=white>
-</p>
+* [`sedikit tip untuk saya`]
+(href="https://trakteer.id/byfe.Ir/tip?open=true")
+
 
