@@ -1,6 +1,4 @@
-<h1 align="center">ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ
-  Repository</h1>
-
+<h1 align="center">ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
 </p>
@@ -13,31 +11,22 @@
  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>
   <img src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white>
 <a href="https://astro.build"><img src="https://astro.badg.es/v2/built-with-astro/small.svg" alt="Built with Astro" width="173" height="27"></a>
-<p>
-<a href="#"><img title="maintained" src="https://img.shields.io/badge/maintained-YES-white.svg"</a>
+<p align="right">
+<a href="#"><img title="unmaintained" src="https://img.shields.io/badge/unmaintained-YES-red.svg"</a>
 </p>
-  <span><i class="fa fa-language" aria-hidden="false"></i></span>
+  
+## what is ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ
+<a href="https://archiveofap24.vercel.app/">
+ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ</a> </br>
+is an image archive website owned by the Ap class of 2024.
 
-## Clone this project
-
+## privacy policy 
+, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
 ```bash
+> npm start
 > git clone https://github.com/MhankBarBar/whatsapp-bot
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
-
-```bash
-> npm install gify-cli -g
-> npm i
-```
-
-### Usage
-Before running this script, first edit [this section](https://github.com/MhankBarBar/whatsapp-bot/blob/master/msgHndlr.js#L67) with your WhatsApp number, remember your WhatsApp number!  Not a bot number, then
-```bash
-> npm start
-```
 
 ## Features
 
