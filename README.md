@@ -33,8 +33,8 @@ git clone https://github.com/st-Ir/photos
 ## Special Thanks to
 * [`AREA44/astro-multivers`](https://github.com/AREA44/astro-multiverse)
 
+  
 ### Donate
-* [`sedikit tip untuk saya`]
-(href="https://trakteer.id/byfe.Ir/tip?open=true")
+* [`Trakteer`](https://trakteer.id/byfe.Ir/tip?open=true)
 
 
