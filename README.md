@@ -2,17 +2,12 @@
 
 [![Built with Astro](https://astro.badg.es/v2/built-with-astro/tiny.svg)](https://astro.build)
 
-Say hello to **Multiverse**, a slick, one-page gallery design with a fully functional lightbox.
-
 ## Getting Started
 
-To get started with Astro Multiverse, follow these steps:
+To
 
 ```bash
-git clone https://github.com/AREA44/astro-multiverse
-cd astro-multiverse
-pnpm install
-pnpm dev
+hello world 
 ```
 
 ## How to Customize
