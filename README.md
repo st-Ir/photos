@@ -1,6 +1,6 @@
 <h1 align="center">ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/mhankbarbar/whatsapp-bot/master/media/img/Kaguya.png" width="128" height="128"/>
+<img src="https://raw.githubusercontent.com/st-Ir/photos/main/public/134.jpg"/>
 </p>
 <p align="center">
 <img href="" src=https://img.shields.io/badge/Author:ᴵʳ-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white>
