@@ -1,6 +1,6 @@
 <h1 align="center">ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/st-Ir/photos/main/public/images/I%CC%B7r%CC%B7%C2%B2%20%20%E0%BD%BC.gif?token=GHSAT0AAAAAACIZZHUUBEM5IMG4AJEU656UZKW7YNA" width="170px"/>
+<img src="public/134.jpg"/>
 </p>
 <p align="center">
   <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white >
