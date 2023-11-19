@@ -21,7 +21,7 @@ is an image archive website owned by the Ap class of 2024.</br></br>
 ## authorized party
 All assets on this website have gone through the authorities, please be wise in using them
 
-"Wahai orang-orang yang beriman, mengapakah kamu mengatakan sesuatu yang tidak kamu kerjakan? Amat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan."
+"Wahai orang-orang yang beriman, mengapakah kamu mengatakan sesuatu yang tidak kamu kerjakan? Amat besar kebencian di sisi Allah bahwa kamu mengatakan apa-apa yang tidak kamu kerjakan."<br>
  (QS ash-Shaff: 2-3).
  
 ## clone this website 
