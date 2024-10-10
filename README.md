@@ -1,4 +1,4 @@
-<h1 align="center">ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ</h1>
+<h1 align="center">Arᥴh꠸eve Aρᒿᔰ</h1>
 <p align="center">
 <img src="public/134.jpg"/>
 </p>
@@ -12,7 +12,7 @@
 
 
 
-## what is ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ
+## what is Arᥴh꠸eve Aρᒿᔰ
 
 is an image archive website owned by the Ap class of 2024.</br></br>
 <a href="https://archiveofap24.vercel.app/"> ꪖ᥅ᥴꫝ꠸ꪜꫀ ꪖρᒿᔰ</a>
