@@ -7,7 +7,7 @@
   <img src=https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white>
 
 <p align="right">
-<a href="#"><img title="unmaintained" src="https://img.shields.io/badge/status-MT-blue.svg"</a>
+<a href="#"><img title="unmaintained" src="https://img.shields.io/badge/status-Archive-red.svg"</a>
 </p>
 
 
